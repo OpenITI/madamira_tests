@@ -9,6 +9,10 @@ Selected texts converted into JSON for texts with MADAMIRA.
   - `"HEAD"` :: inculdes the metadata header from the original text
   - `"INDEX"` :: includes IDs of all sections in the order they appear in the text; **NOTE:** :: JSON file preserves the original order of sections; `INDEX` has been generated as a precaution.
 
- # Repository Structure
+# Repository Structure
 
 All texts (preserve their original URIs + `.json`) are stored in the `data` subfolder.
+
+# List of texts
+
+- `0748Dhahabi.TarikhIslam.MGR20180917-ara1.mARkdownSimple.json`
